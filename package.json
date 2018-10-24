@@ -1,0 +1,26 @@
+{
+  "name": "deletetwiliochatchannels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGurds/DeleteTwilioChatChannels.git"
+  },
+  "keywords": [
+    "Twilio"
+  ],
+  "author": "Ryan Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrGurds/DeleteTwilioChatChannels/issues"
+  },
+  "homepage": "https://github.com/MrGurds/DeleteTwilioChatChannels#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "twilio": "^3.23.1"
+  }
+}
